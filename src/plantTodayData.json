@@ -1,0 +1,59 @@
+[
+    {
+        "plant_id": 1,
+        "plant_name": "Winter Jasmine",
+        "plant_scientific": "Jasminum polyanthum",
+        "plant_category": "Smell",
+        "plant_image_header": "jasmine1.jpg",
+        "plant_header_description": "Jasminum polyanthum is a species of flowering plant native to China.",
+        "plant_description": [
+            {
+                "plant_chapter": "Introduction",
+                "plant_chapter_id": "plantIntroduction",
+                "plant_chapter_description": "This species of plant is native to Southwest China, but is considered to be a house plant in both Europe and the United States. It is also considered to be invasive in Australia and New Zealand. Jasminum polyanthum grows quickly and up to 20 feet in height. The reason that this plant grows so fast is due to its density, resilience, and ability to form in small spaces through its stem."
+            },
+            {
+                "plant_chapter": "Fun Facts",
+                "plant_chapter_id": "funFacts",
+                "plant_chapter_description": "Jasminum polyanthum is commonly used to cover walls due to its dense canopy-like growth pattern. The plant also has a distinctly sweet floral smell that is used in perfumes and candles. It was also awarded the Award of Garden Merit by the Royal Horticultural Society in 1993 due to it being easy to breed and lack of disease problems."
+            },
+            {
+                "plant_chapter": "Where to find it?",
+                "plant_chapter_id": "findIt",
+                "plant_chapter_description": "Jasminum polyanthum can be found in the West Wing of the Curvilinear Range."
+            }
+        ]
+    },
+    {
+        "plant_id": 2,
+        "plant_name": "Panama Hat Palm",
+        "plant_scientific": "Carludovica palmata",
+        "plant_category": "Unique",
+        "plant_image_header": "palm2.jpg",
+        "plant_header_description": "The Panama Hat Palm is an evergreen plant found commonly in Ecuador and other parts of South America.",
+        "plant_description": [
+            {
+                "plant_chapter": "Introduction",
+                "plant_chapter_id": "plantIntroduction",
+                "plant_chapter_description": "The Panama Hat Palm grows in clusters of large fan-like leaves that stand at about three to four metres tall. It typically grows in wet lowlands or mountainous rainforests at elevations below 800 metres. While the plant is not explicitly used for food, the leaves and shoots of the plant are technically edible."
+            },
+            {
+                "plant_chapter": "Fun Facts",
+                "plant_chapter_id": "funFacts",
+                "plant_chapter_description": "The Panama Hat Palm offers a durable fibre that is unsurprisingly used to craft Panama hats. The fibre is also commonly used to make small bags and cigar cases, while the leaves can be made into brooms."
+            },
+            {
+                "plant_chapter": "Where to find it?",
+                "plant_chapter_id": "findIt",
+                "plant_chapter_description": "The Panama Hat Palm can be found in the centre room of Great Palm House."
+            }
+        ]
+    },
+    {
+        "plant_id": 3,
+        "plant_name": "Sweet Beatrice",
+        "plant_scientific": "Rhododendron",
+        "plant_category": "Unique",
+        "plant_image_header": "rosabelle.jpg"
+    }
+]

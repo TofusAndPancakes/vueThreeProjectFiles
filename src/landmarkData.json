@@ -1,0 +1,71 @@
+[
+    {
+        "landmark_id": 1,
+        "landmark_name": "The Curvilinear Range",
+        "landmark_category": "Glasshouses",
+        "landmark_image_header": "curv4.jpg",
+        "landmark_header_description": "The Curvilinear Range dates back to 1848 and stands as one of the garden’s most popular glasshouses.",
+        "landmark_description": [
+            {
+                "landmark_chapter": "History",
+                "landmark_chapter_id": "history",
+                "landmark_chapter_description": "The glasshouse was completed in 1848 by celebrated Irish glasshouse Designer Richard Turner. The glasshouse was completed using structural ironwork leftover from London’s Kew Gardens. The distinctive curved roof of the structure was popularised by Turner. The glasshouse has undergone a series of renovations during its life, but its current style comes from renovations done in the 1990s by the Office of Public Works.",
+                "landmark_chapter_image": "curv2.jpg"
+            },
+            {
+                "landmark_chapter": "Features",
+                "landmark_chapter_id": "features",
+                "landmark_chapter_description": "The Curvilinear Range is composed of three main thematic houses. The Western Wing houses plants originating from parts of South-East Asia, specifically the Philippines, Borneo, and New Guinea. Species of Rhododendron, tree ferns, orchids, and pitcher plants find their home in the Western Wing. The Eastern Wing houses plants that originate from Australia, South Africa, and South American Floras. Plants with thick leaves and insect deterring oils are planted here."
+            },
+            {
+                "landmark_chapter": "Fun Facts",
+                "landmark_chapter_id": "funFacts",
+                "landmark_chapter_description": "Certain parts of the glasshouse almost doubled in size in 1869 by Richard Turner and his son William. The glasshouse’s distinctive dome was featured on Irish stamps in the 19th century. In the East Wing, plant families like the Proteaceae and Restionaceae reflect features of plant life around 100 million years ago when the Earth’s continents were linked together known as Gondwanaland."
+            }
+        ]
+    },
+    {
+        "landmark_id": 2,
+        "landmark_name": "The Great Palm House",
+        "landmark_category": "Glasshouses",
+        "landmark_image_header": "house6.jpg",
+        "landmark_header_description": "The Great Palm House was built in 1862 and is the largest of the garden’s glasshouses",
+        "landmark_description": [
+            {
+                "landmark_chapter": "History",
+                "landmark_chapter_id": "history",
+                "landmark_chapter_description": "The Great Palm House is located in the southern centre of the gardens. It was built to accommodate a wider range of tropical plants that required specific growing conditions and space. The tropical plants are housed in a room that is 65 feet tall, 100 feet in length, and 80 feet in width. The glasshouse cost £800 in 1862 which is equivalent to around £121,000 today. The glasshouse has undergone many renovations during its life, but its most recent renovation was in 2004.",
+                "landmark_chapter_image": "house2.jpg"
+            },
+            {
+                "landmark_chapter": "Features",
+                "landmark_chapter_id": "features",
+                "landmark_chapter_description": "The glasshouse has a cactus house on its western side and an orchid house on its east side. Both the cactus and orchid houses have had their indoor climates calibrated to accommodate the growing conditions of the flora.",
+                "landmark_chapter_image": "house4.jpg"
+            },
+            {
+                "landmark_chapter": "Fun Facts",
+                "landmark_chapter_id": "funFacts",
+                "landmark_chapter_description": "The Great Palm House was originally built with wood, but was blown down in 1883. Richard Turner, celebrated Irish glasshouse designer, recommended that its reconstruction be done with iron. The Royal Dublin Society rebuilt the glasshouse in pieces in Paisley, Scotland, this time with Iron. The glasshouse still suffered structural issues until 2004 when the glasshouse was once again renovated with new painting techniques for long term protection and reinforced iron columns that supported the structure."
+            }
+        ]
+    },
+    {
+        "landmark_id": 3,
+        "landmark_name": "Yew Walk",
+        "landmark_category": "Attractions",
+        "landmark_image_header": "yew.jpg"
+    },
+    {
+        "landmark_id": 4,
+        "landmark_name": "Vistor Center",
+        "landmark_category": "Attractions",
+        "landmark_image_header": "center.jpg"
+    },
+    {
+        "landmark_id": 5,
+        "landmark_name": "The Teak House",
+        "landmark_category": "Glasshouses",
+        "landmark_image_header": "teak.jpg"
+    }
+]
